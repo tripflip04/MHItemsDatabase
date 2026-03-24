@@ -17,8 +17,7 @@
       "Requirements": "65 Present Value",
       "Soulbound": "Yes",
       "Cost": "Can't Buy",
-      "Sell Value": "Can't Sell",
-      "Date Added": "5 April, 2020"
+      "Sell Value": "Can't Sell"
     }
   },
   {
@@ -245,7 +244,7 @@
     "name": "Aerogel Refiner",
     "description": "Aerogel is very fire resistant, and seems to only respond to flaming ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Aerogel_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Aerogel_Refiner",
     "properties": {
